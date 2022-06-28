@@ -1,0 +1,326 @@
+﻿[
+  {
+    "Title": "Title1",
+    "Description": "Description1",
+    "IsRead": 0,
+    "Rate": 5,
+    "Genre": "Genre1",
+    "CoverUrl": "CoverUrl1",
+    "PublisherId": 1
+  },
+  {
+    "Title": "Title2",
+    "Description": "Description2",
+    "IsRead": 0,
+    "Rate": 5,
+    "Genre": "Genre2",
+    "CoverUrl": "CoverUrl2",
+    "PublisherId": 22
+  },
+  {
+    "Title": "Title3",
+    "Description": "Description3",
+    "IsRead": 0,
+    "Rate": 5,
+    "Genre": "Genre3",
+    "CoverUrl": "CoverUrl3",
+    "PublisherId": 3
+  },
+  {
+    "Title": "Title4",
+    "Description": "Description4",
+    "IsRead": 0,
+    "Rate": 5,
+    "Genre": "Genre4",
+    "CoverUrl": "CoverUrl4",
+    "PublisherId": 4
+  },
+  {
+    "Title": "Title5",
+    "Description": "Description5",
+    "IsRead": 0,
+    "Rate": 5,
+    "Genre": "Genre5",
+    "CoverUrl": "CoverUrl5",
+    "PublisherId": 1
+  },
+  {
+    "Title": "Title6",
+    "Description": "Description6",
+    "IsRead": 0,
+    "Rate": 5,
+    "Genre": "Genre6",
+    "CoverUrl": "CoverUrl6",
+    "PublisherId": 22
+  },
+  {
+    "Title": "Title7",
+    "Description": "Description7",
+    "IsRead": 0,
+    "Rate": 5,
+    "Genre": "Genre7",
+    "CoverUrl": "CoverUrl7",
+    "PublisherId": 3
+  },
+  {
+    "Title": "Title8",
+    "Description": "Description8",
+    "IsRead": 0,
+    "Rate": 5,
+    "Genre": "Genre8",
+    "CoverUrl": "CoverUrl8",
+    "PublisherId": 4
+  },
+  {
+    "Title": "Title9",
+    "Description": "Description9",
+    "IsRead": 0,
+    "Rate": 5,
+    "Genre": "Genre9",
+    "CoverUrl": "CoverUrl9",
+    "PublisherId": 1
+  },
+  {
+    "Title": "Title10",
+    "Description": "Description10",
+    "IsRead": 0,
+    "Rate": 5,
+    "Genre": "Genre10",
+    "CoverUrl": "CoverUrl10",
+    "PublisherId": 22
+  },
+  {
+    "Title": "Title11",
+    "Description": "Description11",
+    "IsRead": 0,
+    "Rate": 5,
+    "Genre": "Genre11",
+    "CoverUrl": "CoverUrl11",
+    "PublisherId": 3
+  },
+  {
+    "Title": "Title12",
+    "Description": "Description12",
+    "IsRead": 0,
+    "Rate": 5,
+    "Genre": "Genre12",
+    "CoverUrl": "CoverUrl12",
+    "PublisherId": 4
+  },
+  {
+    "Title": "Title13",
+    "Description": "Description13",
+    "IsRead": 0,
+    "Rate": 5,
+    "Genre": "Genre13",
+    "CoverUrl": "CoverUrl13",
+    "PublisherId": 1
+  },
+  {
+    "Title": "Title14",
+    "Description": "Description14",
+    "IsRead": 0,
+    "Rate": 5,
+    "Genre": "Genre14",
+    "CoverUrl": "CoverUrl14",
+    "PublisherId": 22
+  },
+  {
+    "Title": "Title15",
+    "Description": "Description15",
+    "IsRead": 0,
+    "Rate": 5,
+    "Genre": "Genre15",
+    "CoverUrl": "CoverUrl15",
+    "PublisherId": 3
+  },
+  {
+    "Title": "Title16",
+    "Description": "Description16",
+    "IsRead": 0,
+    "Rate": 5,
+    "Genre": "Genre16",
+    "CoverUrl": "CoverUrl16",
+    "PublisherId": 4
+  },
+  {
+    "Title": "Title17",
+    "Description": "Description17",
+    "IsRead": 0,
+    "Rate": 5,
+    "Genre": "Genre17",
+    "CoverUrl": "CoverUrl17",
+    "PublisherId": 1
+  },
+  {
+    "Title": "Title18",
+    "Description": "Description18",
+    "IsRead": 0,
+    "Rate": 5,
+    "Genre": "Genre18",
+    "CoverUrl": "CoverUrl18",
+    "PublisherId": 22
+  },
+  {
+    "Title": "Title19",
+    "Description": "Description19",
+    "IsRead": 0,
+    "Rate": 5,
+    "Genre": "Genre19",
+    "CoverUrl": "CoverUrl19",
+    "PublisherId": 3
+  },
+  {
+    "Title": "Title20",
+    "Description": "Description20",
+    "IsRead": 0,
+    "Rate": 5,
+    "Genre": "Genre20",
+    "CoverUrl": "CoverUrl20",
+    "PublisherId": 4
+  },
+  {
+    "Title": "Title21",
+    "Description": "Description21",
+    "IsRead": 0,
+    "Rate": 5,
+    "Genre": "Genre21",
+    "CoverUrl": "CoverUrl21",
+    "PublisherId": 1
+  },
+  {
+    "Title": "Title22",
+    "Description": "Description22",
+    "IsRead": 0,
+    "Rate": 5,
+    "Genre": "Genre22",
+    "CoverUrl": "CoverUrl22",
+    "PublisherId": 22
+  },
+  {
+    "Title": "Title23",
+    "Description": "Description23",
+    "IsRead": 0,
+    "Rate": 5,
+    "Genre": "Genre23",
+    "CoverUrl": "CoverUrl23",
+    "PublisherId": 3
+  },
+  {
+    "Title": "Title24",
+    "Description": "Description24",
+    "IsRead": 0,
+    "Rate": 5,
+    "Genre": "Genre24",
+    "CoverUrl": "CoverUrl24",
+    "PublisherId": 4
+  },
+  {
+    "Title": "Title25",
+    "Description": "Description25",
+    "IsRead": 0,
+    "Rate": 5,
+    "Genre": "Genre25",
+    "CoverUrl": "CoverUrl25",
+    "PublisherId": 1
+  },
+  {
+    "Title": "Title26",
+    "Description": "Description26",
+    "IsRead": 0,
+    "Rate": 5,
+    "Genre": "Genre26",
+    "CoverUrl": "CoverUrl26",
+    "PublisherId": 22
+  },
+  {
+    "Title": "Title27",
+    "Description": "Description27",
+    "IsRead": 0,
+    "Rate": 5,
+    "Genre": "Genre27",
+    "CoverUrl": "CoverUrl27",
+    "PublisherId": 3
+  },
+  {
+    "Title": "Title28",
+    "Description": "Description28",
+    "IsRead": 0,
+    "Rate": 5,
+    "Genre": "Genre28",
+    "CoverUrl": "CoverUrl28",
+    "PublisherId": 4
+  },
+  {
+    "Title": "Title29",
+    "Description": "Description29",
+    "IsRead": 0,
+    "Rate": 5,
+    "Genre": "Genre29",
+    "CoverUrl": "CoverUrl29",
+    "PublisherId": 1
+  },
+  {
+    "Title": "Title30",
+    "Description": "Description30",
+    "IsRead": 0,
+    "Rate": 5,
+    "Genre": "Genre30",
+    "CoverUrl": "CoverUrl30",
+    "PublisherId": 22
+  },
+  {
+    "Title": "Title31",
+    "Description": "Description31",
+    "IsRead": 0,
+    "Rate": 5,
+    "Genre": "Genre31",
+    "CoverUrl": "CoverUrl31",
+    "PublisherId": 3
+  },
+  {
+    "Title": "Title32",
+    "Description": "Description32",
+    "IsRead": 0,
+    "Rate": 5,
+    "Genre": "Genre32",
+    "CoverUrl": "CoverUrl32",
+    "PublisherId": 4
+  },
+  {
+    "Title": "Title33",
+    "Description": "Description33",
+    "IsRead": 0,
+    "Rate": 5,
+    "Genre": "Genre33",
+    "CoverUrl": "CoverUrl33",
+    "PublisherId": 1
+  },
+  {
+    "Title": "Title34",
+    "Description": "Description34",
+    "IsRead": 0,
+    "Rate": 5,
+    "Genre": "Genre34",
+    "CoverUrl": "CoverUrl34",
+    "PublisherId": 22
+  },
+  {
+    "Title": "Title35",
+    "Description": "Description35",
+    "IsRead": 0,
+    "Rate": 5,
+    "Genre": "Genre35",
+    "CoverUrl": "CoverUrl35",
+    "PublisherId": 3
+  },
+  {
+    "Title": "Title36",
+    "Description": "Description36",
+    "IsRead": 0,
+    "Rate": 5,
+    "Genre": "Genre36",
+    "CoverUrl": "CoverUrl36",
+    "PublisherId": 4
+  }
+]
