@@ -1,9 +1,11 @@
-﻿using System.ComponentModel.DataAnnotations.Schema;
+﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace BookLibrary_In_Lecture.Models
 {
     public class Book
     {
+        [Key]
         public int Id { get; set; }
         public string? Title { get; set; }
         public string? Description { get; set; }
@@ -17,5 +19,6 @@ namespace BookLibrary_In_Lecture.Models
         public virtual Publisher Publisher { get; set; }
 
         public virtual List<Author> Authors { get; set; }
+        public DateTime DateAdded { get; set; }
     }
 }

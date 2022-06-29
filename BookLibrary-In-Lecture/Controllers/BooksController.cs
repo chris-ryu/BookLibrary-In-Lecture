@@ -80,6 +80,29 @@ namespace BookLibrary_In_Lecture.Controllers
             return NoContent();
         }
 
+        [HttpPost("add-book")]
+        public async Task<ActionResult<Book>> PostBookDTO(BookCreateDTO bookDTO)
+        {
+          if (_context.Book == null)
+          {
+              return Problem("Entity set 'AppDbContext.Book'  is null.");
+          }
+
+            var book = new Book
+            {
+                Title = bookDTO.Title,
+                IsRead = false,
+                DateAdded = DateTime.UtcNow,
+                PublisherId = 2
+            };
+
+            //_context.Book.Add(book);
+            _context.Add(book);
+            await _context.SaveChangesAsync();
+
+            return CreatedAtAction("GetBook", new { id = book.Id }, book);
+        }
+
         // POST: api/Books
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
         [HttpPost]
