@@ -15,6 +15,15 @@ namespace BookLibrary_In_Lecture.Controllers
             _context = context;
         }
 
+        [HttpDelete("remove-book")]
+        public async Task<IActionResult> DeleteBook(int publisherId, PublisherBookRemoveDTO publisherBookRemoveDTO)
+        {
+            var book = _context.Book.Find(publisherBookRemoveDTO.BookId);
+            book.PublisherId = null;
+            await _context.SaveChangesAsync();
+            return Ok();
+        }
+
         [HttpGet]
         public async Task<ActionResult<IEnumerable<PublisherItemDTO>>> GetPublishers()
         {

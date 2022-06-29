@@ -1,4 +1,6 @@
-﻿namespace BookLibrary_In_Lecture.Controllers
+﻿using BookLibrary_In_Lecture.Controllers;
+
+namespace BookLibrary_In_Lecture.Models
 {
     public class AuthorItemDTO
     {

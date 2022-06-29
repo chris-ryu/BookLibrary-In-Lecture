@@ -1,4 +1,4 @@
-﻿namespace BookLibrary_In_Lecture.Controllers
+﻿namespace BookLibrary_In_Lecture.Models
 {
     public class BookCreateDTO
     {
